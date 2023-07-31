@@ -5,4 +5,4 @@ RUN service nginx start
 RUN mkdir dockers
 RUN cd dockers
 WORKDIR dockers
-EXPOSE 80
+EXPOSE 8080
