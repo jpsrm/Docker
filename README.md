@@ -1,2 +1,2 @@
-# Docker
-Docker project - 2
+Docker installation on Ubuntu
+'''
